@@ -56,9 +56,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Files
 - `Online_Payment_Fraud_Detection.ipynb` - Main notebook with complete analysis
 - `creditcard.csv` - Dataset file (required)
-
-## Author
-Credit Card Fraud Detection Project
-
-## License
-MIT
